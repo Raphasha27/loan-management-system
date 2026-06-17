@@ -1,5 +1,7 @@
 # Loan Management System
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/loan-management-system/actions)
 [![CI](https://github.com/koketseraphasha/loan-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/loan-management-system/actions/workflows/ci.yml)
 
 Loan processing and management platform with application workflow, approval chains, repayment tracking, and credit scoring.
